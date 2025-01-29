@@ -88,6 +88,7 @@ void loop() {
     Y = 130;
   }
 
+   // Moving forward / backward
   if(btValue == 'T')
   {
     X = 1024;
